@@ -6,7 +6,7 @@ body, h1, h2, h3, p, ul, li {
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #f8f2e0;
+    background-color: #f7e5c9;
     color: #4c3c32;
 }
 
@@ -23,7 +23,7 @@ nav {
 }
 
 .logo img {
-    max-width: 100px;
+    max-width: 75px;
 }
 
 nav ul {
@@ -34,13 +34,13 @@ nav ul {
 
 nav a {
     text-decoration: none;
-    color: #4c3c32;
+    color: #bca190;
     font-weight: bold;
     transition: color 0.3s;
 }
 
 nav a:hover {
-    color: #7e685b;
+    color: #e1c9bc;
 }
 
 .hero {
@@ -48,12 +48,13 @@ nav a:hover {
     padding: 150px 0;
     background-image: url('hero-bg.jpg');
     background-size: cover;
-    color: #4c3c32;
+    color: #3b2b21;
 }
 
 .hero h1 {
-    font-size: 36px;
+    font-size: 48px;
     margin-bottom: 20px;
+    font-style: bold;
 }
 
 .hero p {
@@ -64,8 +65,8 @@ nav a:hover {
 .cta-button {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #c09e88;
-    color: #4c3c32;
+    background-color: #e9a171;
+    color: #fefefe;
     text-decoration: none;
     border-radius: 5px;
 }
@@ -75,13 +76,15 @@ nav a:hover {
 }
 
 .menu {
-    padding: 100px 0;
+    padding: 50px 0;
     text-align: center;
 }
 
 .menu h2 {
-    font-size: 30px;
+    font-size: 78px;
     margin-bottom: 20px;
+    font-style: bold;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
 }
 
 .about {
@@ -123,4 +126,40 @@ footer {
     color: white;
     text-align: center;
     padding: 20px 0;
+}
+
+.card-img-top { 
+    height: 150px;
+    object-fit: cover;
+}
+
+.card-title {
+    font-style: bold;
+    font-size: 21px;
+
+}
+
+.card-text {
+    font-style: italic;
+    font-size: 16px;
+
+}
+
+.card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.menu h1{
+    background-color: #783c176c;
+    color:  rgb(248, 244, 240);
+}
+.menu {
+    background-color: #c98e6a6c;
+}
+
+.gifs img {
+    width: 503px;
+    height: auto;
 }
