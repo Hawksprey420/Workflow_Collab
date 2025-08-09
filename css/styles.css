@@ -55,11 +55,13 @@ nav a:hover {
     font-size: 48px;
     margin-bottom: 20px;
     font-style: bold;
+    font-family: myFirstFont;
 }
 
 .hero p {
     font-size: 21px;
     margin-bottom: 40px;
+    font-family: myFirstFont;
 }
 
 .cta-button {
@@ -172,4 +174,8 @@ footer {
 .gifs img {
     width: 503px;
     height: auto;
+}
+@font-face {
+  font-family: myFirstFont;
+  src: url(sansation_light.woff);
 }
