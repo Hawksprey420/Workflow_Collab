@@ -49,6 +49,7 @@ nav a:hover {
     background-size: cover;
     background-blend-mode: screen;
     color: #3b2b21;
+    height: 60vh;
     background-image: url('../img/1__wriothesley_gaming_and_man_chai_genshin_impact_drawn_by_o_i_ocha__abecab3f3ac9ac27bc5f84926d605a96.jpg');
 }
     
@@ -172,27 +173,27 @@ footer {
 .gifs {
     display: flex;
     justify-content: center;
-    gap: 1rem; /* spacing between gifs */
+    gap: 1rem; 
     padding: 1rem;
 }
 
 .gifs img {
-    max-width: 200px; /* prevent them from getting too big */
-    border-radius: 8px; /* optional, makes them rounded */
+    max-width: 210px; 
+    border-radius: 8px; 
 }
 
 .mainSection {
-    background-image: url('../img/1__escoffier_genshin_impact_drawn_by_aqinorz__4b1b4573ba3b12925f47a4a51769de0b.jpg');
+    background-image: url('../gifs/backgr.gif');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 70% 50%;
     background-color: rgba(0, 0, 0, 0.5);
     background-blend-mode: darken;
-    min-height: 110vh; /* Makes section at least full screen */
+    min-height: 110vh; 
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    position: relative; /* So inner content sits above the background */
+    position: relative; 
 }
 
 @font-face {
