@@ -1,7 +1,7 @@
 # CozyCup Cafe
 Welcome to CozyCup Cafe, wher we take your hungry minds and bellies to be nourished with soul filling good food.
 
-# What is this?
+# Project description - What is this?
 This is a demonstration 1st week project for CC 6/L: Application Development and Emerging Technologies, where in a fictitious company of both @Hawksprey420, @Lawrens16 started to found a cafe that fits their needs.
 
 <br>
@@ -55,10 +55,15 @@ This is a demonstration 1st week project for CC 6/L: Application Development and
 <br>
 
 # About the authors:
+
+<div style="flex">
 <img src= "https://avatars.githubusercontent.com/u/106462896?v=4" width = "150" style="border-radius:50%">  &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src= "https://avatars.githubusercontent.com/u/75325547?v=4" width = "150" style="border-radius:50%">
+</div>
 
 |Name | Email | Social media | GitHub
 |--------|---------|---------|-------|
 | Nestor Jann Asag | 202380180@psu.palawan.edu.ph | [<img src="img/markdown/Facebook.png" width="20" style="border-radius:50%;">](https://facebook.com/nestorjann.asag/) | [<img src="img/markdown/Github_black.png" width="20" style="border-radius:50%;">](https://github.com/Hawksprey420/)
 | Lawrence Magnetico | 202380044@psu.palawan.edu.ph | [<img src="img/markdown/Facebook.png" width="20" style="border-radius:50%;">](https://facebook.com/Magneticlaww/)| [<img src="img/markdown/Github_black.png" width="20" style="border-radius:50%;">](https://github.com/Lawrens16/)
+
+
