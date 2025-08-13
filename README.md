@@ -55,8 +55,8 @@ This is a demonstration 1st week project for CC 6/L: Application Development and
 <br>
 
 # About the authors:
-<img src = "img/markdown/1000003274.jpg" width="150" style="border-radius:50%;" alt="Author avatar"> 
-<img src="img/markdown/Screenshot 2025-08-13 081134.png" width="150" style="border-radius:50%;" alt="Author avatar">
+<img src= "https://avatars.githubusercontent.com/u/106462896?v=4" width = "150" style="border-radius:50%">  &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src= "https://avatars.githubusercontent.com/u/75325547?v=4" width = "150" style="border-radius:50%">
 
 |Name | Email | Social media | GitHub
 |--------|---------|---------|-------|
