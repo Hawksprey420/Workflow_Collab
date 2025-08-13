@@ -65,3 +65,5 @@ This is a demonstration 1st week project for CC 6/L: Application Development and
 |--------|---------|---------|-------|
 | Nestor Jann Asag | 202380180@psu.palawan.edu.ph | [<img src="img/markdown/Facebook.png" width="20" style="border-radius:50%;">](https://facebook.com/nestorjann.asag/) | [<img src="img/markdown/Github_black.png" width="20" style="border-radius:50%;">](https://github.com/Hawksprey420/)
 | Lawrence Magnetico | 202380044@psu.palawan.edu.ph | [<img src="img/markdown/Facebook.png" width="20" style="border-radius:50%;">](https://facebook.com/Magneticlaww/)| [<img src="img/markdown/Github_black.png" width="20" style="border-radius:50%;">](https://github.com/Lawrens16/)
+
+
